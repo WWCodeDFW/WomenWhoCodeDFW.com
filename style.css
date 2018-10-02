@@ -1,0 +1,17 @@
+.header-h1 {
+    background-color: rgba(255,255,255,.75);
+    color: #111;
+    font-family: 'Cutive Mono', Arial, sans-serif;
+    font-size: 4rem;
+    display: inline-block;
+    padding: 25px;
+    width: 50%;
+    margin: 20px;
+    position: absolute;
+    top: 250px;
+    left: 200px;
+}
+
+body {
+    background-image: url('assets/images/grid-bg-pink.jpg');
+}
